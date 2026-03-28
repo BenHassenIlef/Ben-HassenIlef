@@ -1,8 +1,5 @@
 # ⚡ Hello World, I'm Ilef BEN HASSEN! 
 
-<div align="center">
-  <img src="1750157822283.jpg" alt="Ilef's Header" width="50%">
-</div>
 
 ---
 
