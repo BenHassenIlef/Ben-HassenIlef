@@ -51,14 +51,10 @@ I am a **Data Science and Artificial Intelligence Engineer** dedicated to archit
 > [!IMPORTANT]
 > To protect proprietary logic and academic integrity, many of my repositories are currently **Private**. I am happy to provide walkthroughs or access to recruiters and collaborators upon request.
 
-<p align="center">
-  <a href="mailto:raedbouhali@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Ilef-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
-  </a>
-</p>
+
 
 ### 📫 Let's Connect
-* **Email:** raedbouhali@gmail.com 
+* **Email:** benhassenilef20@gmail.com 
 * **Expertise:** Data Engineering, AI Integration, Linux Systems
 
 <div align="center">
