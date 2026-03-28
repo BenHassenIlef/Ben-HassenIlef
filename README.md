@@ -57,6 +57,4 @@ I am a **Data Science and Artificial Intelligence Engineer** dedicated to archit
 * **Email:** benhassenilef20@gmail.com 
 * **Expertise:** Data Engineering, AI Integration, Linux Systems
 
-<div align="center">
-  <img src="pic.png" width="300" style="border-radius: 50%; border: 2px solid #326CE5;">
-</div>
+
